@@ -21,3 +21,5 @@ The repo describes a tutorial workflow for analysis of Xenium spatial data
 [spatial-image github repo](https://github.com/spatial-image/spatial-image)
 
 [squipy Xenium tutorial](https://squidpy.readthedocs.io/en/stable/notebooks/tutorials/tutorial_xenium.html)
+
+[squipy Youtube tutorial](https://www.youtube.com/watch?v=_nBMdAMMXcY&ab_channel=SingleCellGenomics%2CTranscriptomics%26Proteomics)
